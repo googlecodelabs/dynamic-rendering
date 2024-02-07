@@ -1,6 +1,8 @@
 Implement dynamic rendering with Rendertron - codelab
 ============
 
+**This repository is deprecated**
+
 This codelab walks you through implementing dynamic rendering with [Rendertron](https://github.com/googlechrome/rendertron).
 It shows you how to extend an [express.js](https://expressjs.com) application with the Rendertron middleware.
 
